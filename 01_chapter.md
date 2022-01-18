@@ -1,7 +1,6 @@
 ---
 layout: default
-title: 21 Lekcji
+title: Rozdział I
 nav_order: 100
+has_children: true
 ---
-
-Hello World
