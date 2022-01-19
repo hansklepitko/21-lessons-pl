@@ -1,9 +1,20 @@
 ---
+
 layout: default
 title: Przedmowa
 nav_order: 1
+
 ---
+
 # Przedmowa
+
+> "Czy mógłbyś mi powiedzieć, proszę, w którą stronę powinnam stąd iść?".
+> "To zależy w dużej mierze od tego, dokąd chcesz się dostać".
+> "Nie bardzo mnie obchodzi, gdzie..."
+> "Zatem nie ma znaczenia, w którą stronę pójdziesz".
+>
+> <cite>\[Carroll Lewis - Alicja w Krainie Czarów\]</cite>.
+
 
 Wpadnięcie do króliczej nory Bitcoina jest dziwnym doświadczeniem. Podobnie jak wielu innych, czuję, że nauczyłem się więcej w ciągu ostatnich kilku lat studiując Bitcoin niż przez dwie dekady formalnej edukacji.
 
