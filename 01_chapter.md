@@ -22,11 +22,17 @@ I każdy dojdzie do innych wniosków na temat natury bestii.
 Poniższe lekcje dotyczą niektórych z moich założeń, które Bitcoin zburzył, oraz o wnioskach, do których doszedłem. Filozoficzne pytania o niezmienność, niedobór, lokalność i tożsamość są eksplorowane w pierwszych czterech lekcjach.
 
 [Lekcja 1: Niezmienność i zmiana](01.html)
+
 Lekcja 2: Niedobór niedostatku
+
 Lekcja 3: Replikacja i lokalność
+
 Lekcja 4: Problem tożsamości
+
 Lekcja 5: Nieskazitelne poczęcie
+
 Lekcja 6: Siła wolnego słowa
+
 Lekcja 7: Granice wiedzy
 
 Lekcja 5 odkrywa, że historia pochodzenia Bitcoina jest nie tylko fascynująca, ale
