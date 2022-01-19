@@ -12,7 +12,7 @@ nav_order: 2
 > Ja jestem szalony. Ty jesteś szalona."
 > "Skąd wiesz, że jestem szalona?" zapytała Alicja.
 > "Musisz być", powiedział Kot, "inaczej byś tu nie przyszła".
->
+> 
 > <cite>\[Carroll Lewis - Alicja w Krainie Czarów\]</cite>.
 
 W październiku 2018 r., Arjun Balaji zadał niewinne pytanie, [*Czego nauczyłeś się od Bitcoina?*](https://twitter.com/arjunblj/status/1050073234719293440) Po próbie odpowiedzi na to pytanie w krótkim tweecie i ponosząc sromotną porażkę, zdałem sobie sprawę, że rzeczy, których się nauczyłem, jest zbyt wiele, by odpowiedzieć szybko, jeśli w ogóle.
@@ -44,3 +44,6 @@ niż wydaje się na pierwszy rzut oka. Nie mogę Ci nawet powiedzieć, czym jest
 > "Po tym, nie ma odwrotu. Bierzesz niebieską pigułkę - historia się kończy, budzisz się w swoim łóżku i wierzysz w co chcesz wierzyć. Bierzesz czerwoną pigułkę - zostajesz w Krainie Czarów, a ja pokazuję ci jak głęboko sięga królicza nora."
 > 
 > <cite>[Morfeusz]</cite>.
+
+
+![Bitcoin Orange Pill](images/bitcoin-orange-pill.jpg)
