@@ -3,6 +3,7 @@ layout: default
 title: Rozdział I
 nav_order: 100
 has_children: true
+permalink: /01_chapter
 
 ---
 
@@ -21,19 +22,19 @@ I każdy dojdzie do innych wniosków na temat natury bestii.
 
 Poniższe lekcje dotyczą niektórych z moich założeń, które Bitcoin zburzył, oraz o wnioskach, do których doszedłem. Filozoficzne pytania o niezmienność, niedobór, lokalność i tożsamość są eksplorowane w pierwszych czterech lekcjach.
 
-[Lekcja 1: Niezmienność i zmiana](01.html)
+[Lekcja 1: Niezmienność i zmiana](/01)
 
-[Lekcja 2: Niedobór niedostatku](02.html)
+[Lekcja 2: Niedobór niedostatku](/02)
 
-[Lekcja 3: Replikacja i lokalność](03.html)
+[Lekcja 3: Replikacja i lokalność](/03)
 
-[Lekcja 4: Problem tożsamości](04.html)
+[Lekcja 4: Problem tożsamości](/04)
 
-[Lekcja 5: Nieskazitelna koncepcja](05.html)
+[Lekcja 5: Nieskazitelna incepcja](/05)
 
-[Lekcja 6: Siła wolnego słowa](06.html)
+[Lekcja 6: Siła wolnego słowa](/06)
 
-[Lekcja 7: Granice wiedzy](07.html)
+[Lekcja 7: Granice wiedzy](/07)
 
 Lekcja 5 odkrywa, że historia pochodzenia Bitcoina jest nie tylko fascynująca, ale
 absolutnie niezbędna dla systemu bez liderów. Ostatnie dwie lekcje tego rozdziału  badają siłę wolności słowa i granice naszej indywidualnej wiedzy, odzwierciedlone przez zaskakującą głębokość Bitcoinowej króliczej nory.
