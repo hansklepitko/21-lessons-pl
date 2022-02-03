@@ -9,7 +9,7 @@ nav_order: 0
 
 ## Robocza wersja polskiego tłumaczenia
 
-**"21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole"** *by Gigi*
+**"21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole"** *by [Gigi](https://twitter.com/dergigi)*
 
 ## Licencja:
 
