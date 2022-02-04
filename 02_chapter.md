@@ -15,19 +15,19 @@ Bitcoin nauczył mnie więcej o pieniądzach, niż kiedykolwiek myślałem, że 
 
 W pierwszych siedmiu lekcjach omówione zostały niektóre z filozoficznych pytań, które porusza Bitcoin. W kolejnych siedmiu lekcjach przyjrzymy się bliżej pieniądzom i ekonomii.
 
-[Lekcja 8: Finansowa ignorancja](/08)
+[Lekcja 8: Finansowa ignorancja](/21-lessons-pl/08)
 
-[Lekcja 9: Inflacja](/09)
+[Lekcja 9: Inflacja](/21-lessons-pl/09)
 
-[Lekcja 10: Wartość](/10)
+[Lekcja 10: Wartość](/21-lessons-pl/10)
 
-[Lekcja 11: Pieniądze](/11)
+[Lekcja 11: Pieniądze](/21-lessons-pl/11)
 
-[Lekcja 12: Historia i upadek pieniądza](/12)
+[Lekcja 12: Historia i upadek pieniądza](/21-lessons-pl/12)
 
-[Lekcja 13: Szaleństwo Rezerwy Frakcyjnej](/13)
+[Lekcja 13: Szaleństwo Rezerwy Frakcyjnej](/21-lessons-pl/13)
 
-[Lekcja 14: Zdrowy pieniądz](/14)
+[Lekcja 14: Zdrowy pieniądz](/21-lessons-pl/14)
 
 Znów, będę w stanie jedynie zarysować powierzchnię. Bitcoin jest nie tylko ambitny, ale także szeroki i głęboki w swym zakresie, co sprawia, że nie jest możliwe poruszenie wszystkich istotnych tematów w jednej lekcji, eseju, artykule czy książce. Wątpię, czy jest to w ogóle możliwe.
 

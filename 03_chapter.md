@@ -16,19 +16,19 @@ Rozwiązywanie problemów w radykalnie zdecentralizowanym i pełnym przeciwnośc
 
 Kryptografia jest tym, czego Bitcoin używa, by pozbyć się zaufania do władz. Zamiast polegać na scentralizowanych instytucjach, system opiera się na ostatecznym autorytecie naszego wszechświata: fizyce. Niektóre ziarna zaufania wciąż jednak pozostają. Będziemy przeanalizujemy je w drugiej lekcji tego rozdziału.
 
-[Lekcja 15: Siła w liczbach](/15)
+[Lekcja 15: Siła w liczbach](/21-lessons-pl/15)
 
-[Lekcja 16: Refleksje na temat "Nie Ufaj, Weryfikuj"](/16)
+[Lekcja 16: Refleksje na temat "Nie Ufaj, Weryfikuj"](/21-lessons-pl/16)
 
-[Lekcja 17: Odmierzanie czasu wymaga pracy](/17)
+[Lekcja 17: Odmierzanie czasu wymaga pracy](/21-lessons-pl/17)
 
-[Lekcja 18: Poruszaj się powoli i nie niszcz rzeczy](/18)
+[Lekcja 18: Poruszaj się powoli i nie niszcz rzeczy](/21-lessons-pl/18)
 
-[Lekcja 19: Prywatność nie jest martwa](/19)
+[Lekcja 19: Prywatność nie jest martwa](/21-lessons-pl/19)
 
-[Lekcja 20: 'Cypherpunks' piszą kod](/20)
+[Lekcja 20: 'Cypherpunks' piszą kod](/21-lessons-pl/20)
 
-[Lekcja 21: Metafory przyszłości Bitcoina](/21)
+[Lekcja 21: Metafory przyszłości Bitcoina](/21-lessons-pl/21)
 
 Ostatnie kilka lekcji poświęcone jest etosowi rozwoju technologicznego w Bitcoin, który jest prawdopodobnie równie ważny jak sama technologia. Bitcoin nie jest następną błyszczącą aplikacją w twoim telefonie. Jest fundamentem nowej ekonomicznej rzeczywistości ekonomicznej, dlatego Bitcoin powinien być traktowany jak oprogramowanie finansowe klasy nuklearnej. oprogramowanie.
 
