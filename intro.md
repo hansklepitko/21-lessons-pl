@@ -13,7 +13,7 @@ nav_order: 2
 > "Skąd wiesz, że jestem szalona?" zapytała Alicja.
 > "Musisz być", powiedział Kot, "inaczej byś tu nie przyszła".
 > 
-> <cite>\[Carroll Lewis - Alicja w Krainie Czarów\]</cite>.
+> *Carroll Lewis - Alicja w Krainie Czarów*
 
 W październiku 2018 r., Arjun Balaji zadał niewinne pytanie, [*Czego nauczyłeś się od Bitcoina?*](https://twitter.com/arjunblj/status/1050073234719293440) Po próbie odpowiedzi na to pytanie w krótkim tweecie i ponosząc sromotną porażkę, zdałem sobie sprawę, że rzeczy, których się nauczyłem, jest zbyt wiele, by odpowiedzieć szybko, jeśli w ogóle.
 
@@ -24,11 +24,11 @@ pytania filozoficzne, realia ekonomiczne i innowacje technologiczne.
 Każdy rozdział spogląda na Bitcoina przez inną soczewkę, wydobywając to, jakie 
 lekcje, można wyciągnąć z badania tej dziwnej sieci pod innym kątem.
 
-**Rozdział 1** zgłębia filozoficzne nauki Bitcoina. Wzajemne oddziaływanie niezmienności i zmiany, koncepcję prawdziwego niedoboru, niepokalaną koncepcję Bitcoina, problem tożsamości, sprzeczność replikacji i lokalności, siłę wolności słowa oraz granice wiedzy.
+[**Rozdział 1**](/21-lessons-pl/01_chapter) zgłębia filozoficzne nauki Bitcoina. Wzajemne oddziaływanie niezmienności i zmiany, koncepcję prawdziwego niedoboru, niepokalaną koncepcję Bitcoina, problem tożsamości, sprzeczność replikacji i lokalności, siłę wolności słowa oraz granice wiedzy.
 
-**Rozdział 2** zgłębia nauki ekonomiczne Bitcoina. Lekcje na temat ignorancji finansowej, inflacji, wartości i historii pieniądza, bankowości rezerwy frakcyjnej i jak Bitcoin ponownie wprowadza zdrowy pieniądz, chytrze, okrężną drogą.
+[**Rozdział 2**](/21-lessons-pl/02_chapter) zgłębia nauki ekonomiczne Bitcoina. Lekcje na temat ignorancji finansowej, inflacji, wartości i historii pieniądza, bankowości rezerwy frakcyjnej i jak Bitcoin ponownie wprowadza zdrowy pieniądz, chytrze, okrężną drogą.
 
-**Rozdział 3** zgłębia niektóre z lekcji poprzez zbadanie technologii Bitcoin.  Dlaczego w liczbach tkwi siła, refleksje na temat zaufania. Dlaczego mówienie o czasie wymaga pracy, jak powolne poruszanie się i nie niszczenia rzeczy jest cechą, a nie błędem. Co powstanie Bitcoina może nam powiedzieć o prywatności. Dlaczego Cyberpanki piszą kod (a nie prawa), i jakie metafory mogą być przydatne aby zbadać przyszłość Bitcoina.
+[**Rozdział 3**](/21-lessons-pl/03_chapter) zgłębia niektóre z lekcji poprzez zbadanie technologii Bitcoin.  Dlaczego w liczbach tkwi siła, refleksje na temat zaufania. Dlaczego mówienie o czasie wymaga pracy, jak powolne poruszanie się i nie niszczenia rzeczy jest cechą, a nie błędem. Co powstanie Bitcoina może nam powiedzieć o prywatności. Dlaczego Cyberpanki piszą kod (a nie prawa), i jakie metafory mogą być przydatne aby zbadać przyszłość Bitcoina.
 
 Każda lekcja zawiera kilka cytatów i linków w całym tekście. Jeśli bardziej szczegółowo analizowałem daną ideę, możesz znaleźć linki do moich powiązanych prac w sekcji "Przez szkiełko". Jeśli chcesz zagłębić się w temat, linki do najistotniejszych materiałów znajdują się w sekcji "Down the Rabbit Hole". Oba można znaleźć na końcu każdej lekcji.
 
