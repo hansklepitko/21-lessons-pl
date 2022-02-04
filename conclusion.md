@@ -26,7 +26,7 @@ Jak każdy złożony system, Bitcoin musi dokonywać kompromisów pod względem 
 
 > "Nie wierzę, że kiedykolwiek będziemy mieli znowu dobre pieniądze, zanim nie zabierzemy ich z rąk rządu, to znaczy nie możemy ich gwałtownie zabrać z rąk rządu, wszystko, co możemy zrobić, to w jakiś chytry, okrężny sposób wprowadzić coś, czego oni nie będą mogli zatrzymać".
 > 
-> *[Friedrich Hayek](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1124s)
+> *[Friedrich Hayek](https://www.youtube.com/watch?v=EYhEDxFwFRU&t=1124s)*
 
 Bitcoin jest przebiegłym, okrężnym sposobem na ponowne wprowadzenie dobrych pieniędzy do świata. Czyni to poprzez umieszczenie suwerennej jednostki za każdym węzłem, tak jak Da Vinci próbował rozwiązać nierozwiązywalny problem kwadratury koła poprzez umieszczenie Człowieka Witruwiańskiego w jego środku. Węzły skutecznie usuwają wszelkie koncepcje centrum, tworząc system, który jest zadziwiająco antyfragile i niezwykle trudny do zamknięcia. Bitcoin żyje, a bicie jego serca prawdopodobnie przewyższy nasze.
 
