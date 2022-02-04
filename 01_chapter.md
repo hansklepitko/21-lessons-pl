@@ -42,3 +42,5 @@ absolutnie niezbędna dla systemu bez liderów. Ostatnie dwie lekcje tego rozdzi
 Mam nadzieję, że świat Bitcoina będzie dla Ciebie równie edukacyjny, fascynujący i
 rozrywkowy, jak jest dla mnie. Zapraszam Cię do podążania za białym królikiem i
 zbadania głębi króliczej nory. Teraz złap swój kieszonkowy zegarek, skacz w dół i ciesz się spadaniem.
+
+---
