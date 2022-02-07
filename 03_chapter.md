@@ -10,7 +10,7 @@ permalink: /03_chapter
 
 Złote klucze, zegary, które działają tylko przez przypadek, wyścigi w rozwiązywaniu dziwnych zagadek i budowniczowie, którzy nie mają twarzy ani imion. To, co brzmi jak bajki z Krainy Czarów, jest codziennym biznesem w świecie Bitcoin.
 
-Jak wykazaliśmy w [rozdziale 2](/02_chapter), duża część obecnego systemu finansowego jest systematycznie zepsuta. Podobnie jak Alicja, możemy mieć tylko nadzieję, że tym razem poradzimy sobie lepiej. Ale dzięki pseudonimowemu wynalazcy mamy niesamowicie wyrafinowaną technologię, która tym razem nas wesprze: Bitcoin.
+Jak wykazaliśmy w [rozdziale 2](/21-lessons-pl/02_chapter), duża część obecnego systemu finansowego jest systematycznie zepsuta. Podobnie jak Alicja, możemy mieć tylko nadzieję, że tym razem poradzimy sobie lepiej. Ale dzięki pseudonimowemu wynalazcy mamy niesamowicie wyrafinowaną technologię, która tym razem nas wesprze: Bitcoin.
 
 Rozwiązywanie problemów w radykalnie zdecentralizowanym i pełnym przeciwności środowisku wymaga unikalnych rozwiązań. To, co w innym przypadku byłoby trywialnymi problemami do rozwiązania, w tym dziwnym świecie węzłów jest wszystkim innym. Bitcoin opiera się na silnej kryptografii dla większości rozwiązań, przynajmniej jeśli spojrzeć na to przez pryzmat technologii. Jak silna jest ta kryptografia, dowiesz się w jednej z kolejnych lekcji.
 
