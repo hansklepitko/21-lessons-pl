@@ -4,3 +4,8 @@ color_scheme: "dark"
 search_enabled: true
 ga_tracking: G-D6DQL98YPF
 ga_tracking_anonymize_ip: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "21-lessons-pl on GitHub":
+    - "//github.com/hansklepitko/21-lessons-pl"
